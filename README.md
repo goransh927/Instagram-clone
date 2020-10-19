@@ -1,5 +1,11 @@
 This project was Material-UI with [Create React App](https://github.com/facebook/create-react-app).
 
+# About project
+
+### Hey guys
+In this lockdown period I want to improve my skills in full stack web development and want something real life at the same time, hence after lots of brainstorming I ended up with developing this awesome Instagram Clone which is completely responsive and feature packed. Putting years of development of instagram in just 4 days was not easy but It helped me learn how big projects and real world development works.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
