@@ -1,0 +1,38 @@
+.imageupload{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:10px;
+    margin-bottom:10px ;
+    background-color: white;
+    border-top:1px solid lightgray ;
+}
+.imageupload__progress{
+    width: 100%;
+}
+.imageupload > input{
+    /* border: none; */
+    height: 50px;
+    margin-top: 20px;
+}
+.imageupload__input{
+    margin-left: 400px;
+    margin-top: 20px;
+    /* border-radius: 10px; */
+    height: 50px;
+   
+}
+/* }
+.imageupload__button{
+    color: lightblue;
+    background-color: blue;
+} */
+
+@media only screen and (max-width: 600px){
+    .imageupload__input{
+        margin-left: 0;
+    }
+}
