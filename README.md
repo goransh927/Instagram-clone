@@ -5,6 +5,30 @@ This project was Material-UI with [Create React App](https://github.com/facebook
 ### Hey guys
 In this lockdown period I want to improve my skills in full stack web development and want something real life at the same time, hence after lots of brainstorming I ended up with developing this awesome Instagram Clone which is completely responsive and feature packed. Putting years of development of instagram in just 4 days was not easy but It helped me learn how big projects and real world development works.
 
+I have implemented extreme level user authentication and upload post utility and the most important thing, be it post or comment on others post everything is realtime which gives it superpowers. I think its one of my best projects because now I can see Instagram with the eyes of a developer.
+
+
+# Sneak peek-
+As I have stated its feature packed you must be curious that what exactly the thing is? I have shooted a video of all the things you can do with it so just chek it out, I think it would blow your mind.
+check the video [instagram-clone](https://www.youtube.com/watch?v=P28R9yhTRDA&t=21s)
+
+### please like the video and subscribee my channel
+
+# Tech Stack-
+
+ ReactJs- Components,Hooks,props,Array destructing,Map method,fat Arrow function,Template Literals,
+Npm module: React flip Move
+-> Material UI: for Better User Interface
+-> firebase firestore: for realtime database
+-> firebase storage: for image/videos hosting on cloud
+-> firebase hosting: for deploying the project
+-> Css and css flexbox and Media query for mobile responsiveness.
+-> Jsx which allows javascript to be written inside html
+-> Google Authentication
+-> Awesome User Interface
+-> React context api Which allows data transfer one component to another very easily
+
+
 
 ## Available Scripts
 
